@@ -1,0 +1,6 @@
+Q2: What field could data science be applied to? Give and Example and how 
+it might help
+
+Answer: It could be applied to the medical industry. For example, 
+hospitals and clinics can use patient data to predict tumors before it is 
+too late, saving lives.
