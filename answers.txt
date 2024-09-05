@@ -11,4 +11,5 @@ too late, saving lives.
 
 Q3: What is the difference between merging and rebasing?
 
-Answer: I think I know it now
+Answer: Rebasing replays the commit changes from the branch onto the main 
+branch, which helps avoid merge conflicts.
